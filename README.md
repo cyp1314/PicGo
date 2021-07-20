@@ -1,2 +1,2 @@
 # PicGo
-PicGo
+PicGo 图库
